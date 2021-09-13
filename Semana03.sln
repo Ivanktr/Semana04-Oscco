@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana04", "Semana03\Semana04.csproj", "{CEAD28C3-9294-4741-B307-A6C1CCD01F8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFSemana04", "WPFSemana04\WPFSemana04.csproj", "{846A24DA-2A42-4A67-95FB-0362294E4A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAD28C3-9294-4741-B307-A6C1CCD01F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAD28C3-9294-4741-B307-A6C1CCD01F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAD28C3-9294-4741-B307-A6C1CCD01F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAD28C3-9294-4741-B307-A6C1CCD01F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846A24DA-2A42-4A67-95FB-0362294E4A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846A24DA-2A42-4A67-95FB-0362294E4A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846A24DA-2A42-4A67-95FB-0362294E4A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846A24DA-2A42-4A67-95FB-0362294E4A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E059E6-8938-4F77-BA2C-DD2E39007446}
+	EndGlobalSection
+EndGlobal
